@@ -1,0 +1,8 @@
+README.rdoc
+
+
+Specs 
+- title between 5 and 50 characters
+- description between 5 and 150 charactrs
+- should be allowed to have many articles  
+- test association
